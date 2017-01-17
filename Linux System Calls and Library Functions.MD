@@ -1,4 +1,5 @@
 # Linux System Calls and Library Functions
+![AI](https://github.com/nu11secur1ty/Linux-System-Calls-and-Library-Functions/blob/master/photo/System-Call-and-Library-Function.png)
 
 Computer software are developed to either automate some tasks or solve some problems. Either way, a software achieves the goal with the help of the logic that the developer of that software writes. Every logic requires some services like computing the length of a string, opening a file etc. Standard services are catered by some functions or calls that are provided for this purpose only.
 

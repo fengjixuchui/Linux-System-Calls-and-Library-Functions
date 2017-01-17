@@ -39,7 +39,7 @@ There are library functions that do not make any system call. For example, the s
 
 The following diagram to depict how Library functions, system calls, application code interact with each other.
 
-![AI]()
+![AI](https://github.com/nu11secur1ty/Linux-System-Calls-and-Library-Functions/blob/master/photo/system-library-call.png)
 
 
 The diagram above makes it clear that the application code can interact with Library functions or system calls. Also, a library function can also call system function from within. But only system calls have access to kernel which further can access computer hardware.
